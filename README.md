@@ -48,8 +48,7 @@
 
 # 🧠 Currently Exploring
 
-✨ Artificial Intelligence
-✨ Java 
+✨ Java
 ✨ Machine Learning  
 ✨ Backend Development  
 ✨ Real-time Monitoring Systems  
