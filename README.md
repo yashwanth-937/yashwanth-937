@@ -28,43 +28,38 @@
 
 # 🚀 Featured Projects
 
-## 🛒 Supermarket Billing System
-✔ Java-based billing management system  
-✔ Simple GUI for supermarket operations  
-✔ Efficient product and billing management  
+## 🗳️ Online Voting System
+✔ Java Swing–based secure voting application  
+✔ Role-based access for Admin and Voters  
+✔ One-time voting enforcement  
+✔ File-based persistent storage system  
+✔ Professional GUI and workflow design  
 
 ---
 
-## 🤝 Connect for Cause
-✔ Full-stack civic engagement platform  
-✔ NGOs can manage and track citizen requests  
-✔ AI/NLP based request classification system  
-✔ Real-time updates and issue tracking  
+## 🎓 AI Proctored Examination System
+✔ AI-powered online examination platform  
+✔ OpenCV-based face monitoring system  
+✔ Detects multiple faces, no-face activity & tab switching  
+✔ Automated cheating log generation  
+✔ MongoDB integrated result management  
 
 ---
 
-# 📊 GitHub Stats
+# 🧠 Currently Exploring
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yashwanth-937&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwanth-937&theme=tokyonight&hide_border=true&border_radius=15"/>
-</p>
-
----
-
-# 🌟 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashwanth-937&theme=tokyo-night&hide_border=true"/>
-</p>
+✨ Artificial Intelligence  
+✨ Machine Learning  
+✨ Backend Development  
+✨ Real-time Monitoring Systems  
+✨ Scalable Web Applications  
 
 ---
 
-# 🏆 GitHub Trophies
+# ⚡ Developer Mindset
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashwanth-937&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-</p>
-
----
+```yaml
+Build with Purpose 🚀
+Learn Continuously 📚
+Create Clean UI ✨
+Solve Real Problems 💡
