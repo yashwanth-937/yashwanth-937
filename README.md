@@ -61,7 +61,7 @@
 <p align="center"> <a href="https://github.com/yashwanth-937"> <img src="https://skillicons.dev/icons?i=github" /> </a> <a href="https://linkedin.com/in/busala-yashwanth-kumar-223254291"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> </p>
 
 <p align="center">
-  🚀 “Code. Create. Innovate.” 🚀
+  Code. Create. Innovate.
 </p> <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00BFFF,50:8A2BE2,100:FF69B4"/>
 </p>
